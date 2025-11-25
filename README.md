@@ -1,5 +1,3 @@
-[English](README.md) | 中文
-
 ## Hi there 👋
 ✨ **简介:**
 
