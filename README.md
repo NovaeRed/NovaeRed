@@ -47,8 +47,6 @@
 </table>
 
 
-[![Generic badge](https://img.shields.io/badge/level-skilled-green.svg)](https://shields.io/)
-
 > 感兴趣的有：
 
 <table>
@@ -86,7 +84,6 @@
 </table>
 
 
-[![Generic badge](https://img.shields.io/badge/level-master-yellow.svg)](https://shields.io/)
 > 正在学习：
 
 <table>
