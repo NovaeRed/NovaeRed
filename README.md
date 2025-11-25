@@ -1,13 +1,17 @@
+[English](README.md) | 中文
+
 ## Hi there 👋
-✨ **Brief Introduction:**
+✨ **简介:**
 
-- 🔭 Currently, I am engaged in developing exciting products. You can view them in my repository.
-- 🌱 Presently, I am learning Spring security and Redis. It's truly fascinating about the multi-platform development!
-- 💬 Feel free to ask me about **anything** !
-- ⚡ Fun Fact: I have numerous hobbies. I enjoy coding and also love math, singing and watching movies in my free time.
+我是 NovaeRed，专注后端技术，用多样化项目验证所学
 
-## My Tech Stack 💻
-> My favorite and most-skilled
+- 🔭 目前，我正积极参与开源项目，并渴望加入更多。欢迎在 GitHub 上探索我的旅程！
+- 🌱 现在，我正深入学习 Kubernetes 和 AI。它们重塑数字未来的潜力令人无比着迷！
+- 💬 随时问我任何问题——从后端技术栈到古代王朝！
+- ⚡ 趣味事实：我是历史爱好者，尤其痴迷明朝历史。它的创新精神正启迪我构建今日的韧性系统。
+
+## 技术栈 💻
+> 我擅长的技术：
 
 <table>
   <tr>
@@ -47,7 +51,7 @@
 
 [![Generic badge](https://img.shields.io/badge/level-skilled-green.svg)](https://shields.io/)
 
-> Also passionate for
+> 感兴趣的有：
 
 <table>
   <tr>
@@ -85,7 +89,7 @@
 
 
 [![Generic badge](https://img.shields.io/badge/level-master-yellow.svg)](https://shields.io/)
-> Learning
+> 正在学习：
 
 <table>
   <tr>
